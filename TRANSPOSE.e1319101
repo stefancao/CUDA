@@ -1,0 +1,15 @@
+GPU transpose: 0.000177 secs ==> 5.92416 billion elements/second
+Time to execute CPU transpose kernel: 0.020284 secs
+Transpose successful
+GPU transpose: 0.000177 secs ==> 5.92416 billion elements/second
+Time to execute CPU transpose kernel: 0.021186 secs
+Transpose successful
+GPU transpose: 0.000178 secs ==> 5.89088 billion elements/second
+Time to execute CPU transpose kernel: 0.020932 secs
+Transpose successful
+GPU transpose: 0.000176 secs ==> 5.95782 billion elements/second
+Time to execute CPU transpose kernel: 0.02096 secs
+Transpose successful
+GPU transpose: 0.000189 secs ==> 5.54802 billion elements/second
+Time to execute CPU transpose kernel: 0.021868 secs
+Transpose successful

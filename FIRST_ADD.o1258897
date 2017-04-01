@@ -1,0 +1,47 @@
+Script began: Sat Mar 4 16:11:24 PST 2017
+Node: compute-1-14.local
+Current directory: /data/users/stefanc1/EECS117/hw3
+
+=== Running 5 trials of naive ... ===
+*** Trial 1 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000958 secs
+Effective bandwidth: 35.03 GB/s
+Time to execute naive CPU reduction: 0.116521 secs
+SUCCESS: GPU: 41.937588  CPU: 41.937588
+*** Trial 2 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000958 secs
+Effective bandwidth: 35.03 GB/s
+Time to execute naive CPU reduction: 0.116397 secs
+SUCCESS: GPU: 41.937588  CPU: 41.937588
+*** Trial 3 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000963 secs
+Effective bandwidth: 34.84 GB/s
+Time to execute naive CPU reduction: 0.116506 secs
+SUCCESS: GPU: 41.929600  CPU: 41.929600
+*** Trial 4 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000954 secs
+Effective bandwidth: 35.17 GB/s
+Time to execute naive CPU reduction: 0.11606 secs
+SUCCESS: GPU: 41.929600  CPU: 41.929600
+*** Trial 5 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.00096 secs
+Effective bandwidth: 34.95 GB/s
+Time to execute naive CPU reduction: 0.116422 secs
+SUCCESS: GPU: 41.941612  CPU: 41.941612
+
+=== Done! ===
